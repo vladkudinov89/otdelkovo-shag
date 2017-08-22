@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c89cae65-385d-4c90-a7b6-af357e2795bf" name="otdelkovo" url="http://l955125e.beget.tech">
+        <fileTransfer host="l955125e.beget.tech" port="21" rootFolder="/wp-otdelkovo/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
